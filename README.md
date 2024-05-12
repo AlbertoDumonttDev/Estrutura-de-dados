@@ -2,6 +2,7 @@
 
 Este repositório é uma coleção de códigos e exemplos relacionados ao estudo de estruturas de dados em linguagem C. Aqui, você encontrará implementações práticas das principais estruturas de dados e algoritmos, oferecendo uma base sólida para entender os fundamentos da ciência da computação.
 
+- 🆕 **Introdução a Linguagem C:** Uma introdução abrangente à linguagem C, abordando desde conceitos básicos até tópicos mais avançados.
 - 📝 **Structs:** O uso de structs para criar tipos de dados personalizados e complexos.
 - ✒️ **Ponteiros:** O entendimento e aplicação de ponteiros, uma característica essencial da linguagem C para gerenciar eficientemente a memória.
 - 🪑 **Alocação Dinâmica de Memória RAM:** Como alocar e liberar memória de forma dinâmica durante a execução do programa.
@@ -14,6 +15,16 @@ Este repositório é uma coleção de códigos e exemplos relacionados ao estudo
 - 🔑 **Tabela Hash:** Implementações de tabelas hash, uma estrutura de dados eficiente para armazenar e recuperar dados com base em uma chave única.
 
 Este repositório foi criado como um recurso pessoal para estudo e consulta de terceiros sobre estruturas de dados e algoritmos em linguagem C. Sinta-se à vontade para explorar, aprender e contribuir!
+
+## By
+
+**👨🏾‍💻 Alberto Dumontt**
+🌐 [Linkedin](https://www.linkedin.com/in/alberto-sdumontt/)
+🐈‍⬛ [Github](https://github.com/AlbertoDumonttDev)
+
+## Última Atualização
+
+📆 **11/05/2024**
 
 ## Licença
 

@@ -2,7 +2,6 @@
 #include <Windows.h> // BIBLIOTECA PARA CODIFICAÇÃO UTF-8
 
 int main(){
-    
     SetConsoleOutputCP(CP_UTF8); 
 
     printf("Hello World\n");
