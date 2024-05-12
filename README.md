@@ -18,9 +18,9 @@ Este repositório foi criado como um recurso pessoal para estudo e consulta de t
 
 ## By
 
-**👨🏾‍💻 Alberto Dumontt**  
-🌐 [Linkedin](https://www.linkedin.com/in/alberto-sdumontt/)  
-🐈‍⬛ [Github](https://github.com/AlbertoDumonttDev)  
+**👨🏾‍💻 ALBERTO DUMONTT**  
+- 🌐 [Linkedin](https://www.linkedin.com/in/alberto-sdumontt/)  
+- 🐈‍⬛ [Github](https://github.com/AlbertoDumonttDev)  
 
 ## Última Atualização
 
