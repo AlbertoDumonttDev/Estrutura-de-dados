@@ -2,6 +2,8 @@
 
 Este repositório é uma coleção de códigos e exemplos relacionados ao estudo de estruturas de dados em linguagem C. Aqui, você encontrará implementações práticas das principais estruturas de dados e algoritmos, oferecendo uma base sólida para entender os fundamentos da ciência da computação.
 
+## 🎓 **O que você encontrará aqui:**
+
 - 🆕 **Introdução a Linguagem C:** Uma introdução abrangente à linguagem C, abordando desde conceitos básicos até tópicos mais avançados.
 - 📝 **Structs:** O uso de structs para criar tipos de dados personalizados e complexos.
 - ✒️ **Ponteiros:** O entendimento e aplicação de ponteiros, uma característica essencial da linguagem C para gerenciar eficientemente a memória.
