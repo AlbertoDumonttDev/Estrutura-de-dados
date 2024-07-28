@@ -24,7 +24,7 @@ Este repositório foi criado como um recurso pessoal para estudo e consulta de t
 
 ## Última Atualização
 
-📆 **11/05/2024**
+📆 **28/07/2024**
 
 ## Licença
 
